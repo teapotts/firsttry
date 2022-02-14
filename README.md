@@ -1,2 +1,2 @@
-# firsttry
-i'm trying this out
+# My First Repository
+First try
